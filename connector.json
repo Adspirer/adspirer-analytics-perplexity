@@ -2,7 +2,7 @@
   "name": "Adspirer Analytics",
   "key": "adspirer-analytics",
   "host": "perplexity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read-only marketing analytics and attribution. Report ad performance across Google, Meta, TikTok, LinkedIn, Amazon, Microsoft, ChatGPT and Walmart Ads, plus GA4, Search Console and Tag Manager. Changes nothing.",
   "mcp": {
     "url": "https://mcp.adspirer.com/analytics",
