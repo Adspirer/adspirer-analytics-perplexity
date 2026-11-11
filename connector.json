@@ -1,0 +1,39 @@
+{
+  "name": "Adspirer Analytics",
+  "key": "adspirer-analytics",
+  "host": "perplexity",
+  "version": "1.0.0",
+  "description": "Read-only marketing analytics and attribution. Report ad performance across Google, Meta, TikTok, LinkedIn, Amazon, Microsoft, ChatGPT and Walmart Ads, plus GA4, Search Console and Tag Manager. Changes nothing.",
+  "mcp": {
+    "url": "https://mcp.adspirer.com/analytics",
+    "transport": "streamable-http",
+    "auth": "oauth2 (browser sign-in, PKCE)"
+  },
+  "readOnly": true,
+  "category": "Data & Analytics",
+  "platforms": "Google, Meta, TikTok, LinkedIn, Amazon, Microsoft, ChatGPT and Walmart Ads, plus GA4, Search Console and Tag Manager (read-only)",
+  "logo": "https://storage.googleapis.com/adspirer-images-v1/brand/adspirer-logo-square.svg",
+  "homepage": "https://www.adspirer.com/analytics",
+  "support": "support@adspirer.com",
+  "docs": "https://www.adspirer.com/docs",
+  "privacy": "https://www.adspirer.com/privacy",
+  "terms": "https://www.adspirer.com/terms",
+  "connections": "https://adspirer.ai/connections",
+  "skills": [
+    "adspirer-analytics-attribution",
+    "adspirer-analytics-competitor-research",
+    "adspirer-analytics-conversion-tracking",
+    "adspirer-analytics-cross-channel",
+    "adspirer-analytics-platform-reports",
+    "adspirer-analytics-product-help",
+    "adspirer-analytics-setup",
+    "adspirer-analytics-strategy",
+    "adspirer-analytics-tools",
+    "adspirer-analytics-web-analytics"
+  ],
+  "toolsSkill": "adspirer-analytics-tools",
+  "derivedFrom": {
+    "repository": "https://github.com/Adspirer/adspirer-analytics-cursor-plugin",
+    "version": "1.0.0"
+  }
+}
